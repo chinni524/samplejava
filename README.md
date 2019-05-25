@@ -1,4 +1,0 @@
-# samplejava
-
-
-welcome to world
